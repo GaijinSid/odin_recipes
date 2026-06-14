@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.bullets {
+    margin: 50px;
+    padding: 10px;
+    border: 12px;
+    border-color: silver;
+    border-style: solid;
+    background-color: lightgrey;
+    width: fit-content;
+}
