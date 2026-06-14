@@ -3,7 +3,10 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
+.wallpaper {
+    background-color: teal;
+    
+}
 .bullets {
     margin: 50px;
     padding: 10px;
@@ -13,3 +16,12 @@
     background-color: lightgrey;
     width: fit-content;
 }
+.title_main {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 60px;
+    padding-top: 20px;
+    
+
+}
+
